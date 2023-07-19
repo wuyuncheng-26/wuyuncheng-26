@@ -1,7 +1,9 @@
 Hello!
 
-You can call me Eason.
+My name's Eason.
 
-I like programming very much.
+I'm ten years old.
 
-I like Python, C++ and Java.
+I am interested in programming.
+
+My blog: <https://wuyuncheng-26.github.io>
