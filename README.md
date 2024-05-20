@@ -1,22 +1,20 @@
-Hello! 🙌
+你好！🙌 | Hello! 🙌
 
-My name is Eason,
+我的英文名是 Eason | My English name is Eason
 
-I'm ten years old,
+我很喜欢编程 | I'm interested in programming
 
-I'm interested in programming,
+我现在正在学习 C++ 与 Python | I‘m learning C++ and Python at the moment
 
-I‘m learning C++ and Python at the moment,
+现在我效力于 **PCL-Community** 组织 | Now I'm in **PCL-Community**
 
-Now I'm in the **PCL-Community**.
+**我的 B 站 | My Bilibili: <https://space.bilibili.com/3537111372270302>**
 
-**My Bilibili: <https://space.bilibili.com/3537111372270302>**
-
-**My website: <https://wuyuncheng-26.github.io>**
+**我的网站 | My website: <https://wuyuncheng-26.github.io>**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyuncheng-26&theme=radical)
 
-The projects I'm working on:
+我正在编写的一些项目 | The projects I'm working on:
 
 [![github-chinese](https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=radical&show_owner=true)](https://github.com/maboloshi/github-chinese)
 
