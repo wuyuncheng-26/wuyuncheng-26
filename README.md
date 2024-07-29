@@ -8,8 +8,6 @@
 
 现在我效力于 **PCL-Community** 组织 | Now I'm in **PCL-Community**
 
-**我的 B 站 | My Bilibili: <https://space.bilibili.com/3537111372270302>**
-
 **我的网站 | My website: <https://wuyuncheng-26.github.io>**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyuncheng-26&theme=radical)
