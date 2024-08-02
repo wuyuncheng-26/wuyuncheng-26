@@ -22,6 +22,4 @@
 
 [![github-chinese](https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=radical&show_owner=true)](https://github.com/maboloshi/github-chinese)
 
-[![PCL2-NewsHomepage](https://github-readme-stats.vercel.app/api/pin/?username=Light-Beacon&repo=PCL2-NewsHomepage&theme=radical&show_owner=true)](https://github.com/Light-Beacon/PCL2-NewsHomepage)
-
-[![wbot](https://github-readme-stats.vercel.app/api/pin/?username=wuyuncheng-26&repo=wbot&theme=radical&show_owner=true)](https://github.com/wuyuncheng-26/wbot)
+[![PCL2](https://github-readme-stats.vercel.app/api/pin/?username=Hex-Dragon&repo=PCL2&theme=radical&show_owner=true)](https://github.com/Hex-Dragon/PCL2)
